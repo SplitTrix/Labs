@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CuekrsBWlv+ZlBDZR+cT8QuPOkCp1p6RtBISpxhKU7bSTTKqeXDgLsYSmz8Xg743HG19qxr4RYv3VnEoqqTaVA==",
+  "dgSpecHash": "MdigGMPVeJnoqIRwJITbVv8gHbjd6mIqOy/tu+byaloNk3NdwlgllFhHW8bWSxAiemOTLOU/7n6sR5ftL6DCtg==",
   "success": true,
-  "projectFilePath": "/home/runner/C/main.csproj",
+  "projectFilePath": "/home/runner/Lab3B/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
